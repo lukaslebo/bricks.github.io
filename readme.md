@@ -1,3 +1,9 @@
+# [Adventure Communist Researcher Analysis](https://lukaslebo.github.io/AdventureCommunistAnalysis)
+
+## Implementation by Lukas Lebovitz (04.10.2020)
+
+Analyse efficiency of upgrading researchers in the mobile game Adventure Communists.
+
 
 # [Bricks](https://lukaslebo.github.io/Bricks)
 
